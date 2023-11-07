@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DuckDuckGoSearchApp": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false
+    }
+  }
+}

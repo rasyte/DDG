@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckDuckGoSearchApp", "DuckDuckGoSearchApp.csproj", "{55D3E4D2-E4B4-46C7-9ED3-AF2C1E39AC1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckDuckGoSearchApp.Tests", "..\DuckDuckGoSearchApp.Tests\DuckDuckGoSearchApp.Tests.csproj", "{845FBF6A-EF8D-4EE1-AF67-177CC01FE523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D3E4D2-E4B4-46C7-9ED3-AF2C1E39AC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D3E4D2-E4B4-46C7-9ED3-AF2C1E39AC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D3E4D2-E4B4-46C7-9ED3-AF2C1E39AC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D3E4D2-E4B4-46C7-9ED3-AF2C1E39AC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845FBF6A-EF8D-4EE1-AF67-177CC01FE523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845FBF6A-EF8D-4EE1-AF67-177CC01FE523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845FBF6A-EF8D-4EE1-AF67-177CC01FE523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845FBF6A-EF8D-4EE1-AF67-177CC01FE523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C34523AE-9634-4BC7-A00A-8EBAB701FD73}
+	EndGlobalSection
+EndGlobal
